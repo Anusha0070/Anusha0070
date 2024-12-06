@@ -5,7 +5,7 @@ I’m a software developer passionate about building innovative solutions. From 
 ---
 
 ## 💻 Tech Stack
-![Swift](https://img.shields.io/badge/Code-Swift-orange) ![Python](https://img.shields.io/badge/Code-Python-blue) ![SQL](https://img.shields.io/badge/Code-SQL-lightgrey) ![UIKit](https://img.shields.io/badge/Framework-UIKit-blue) ![PHP](https://img.shields.io/badge/Backend-PHP-purple) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Swift](https://img.shields.io/badge/Code-Swift-orange) ![UIKit](https://img.shields.io/badge/Framework-UIKit-blue) ![Python](https://img.shields.io/badge/Code-Python-blue) ![SQL](https://img.shields.io/badge/Code-SQL-lightgrey) ![PHP](https://img.shields.io/badge/Backend-PHP-purple) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 ---
 
