@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Anusha! 👋
 
-<!--
-**Anusha0070/Anusha0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer passionate about building innovative solutions. From crafting intuitive iOS apps to designing seamless user experiences, I thrive on solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+![Swift](https://img.shields.io/badge/Code-Swift-orange) ![Python](https://img.shields.io/badge/Code-Python-blue) ![SQL](https://img.shields.io/badge/Code-SQL-lightgrey) ![UIKit](https://img.shields.io/badge/Framework-UIKit-blue) ![PHP](https://img.shields.io/badge/Backend-PHP-purple) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+
+---
+
+## 🌟 Projects
+- [**BookingHub**](https://github.com/AnushaRaju007/BookingHub): Hotel booking platform with a user-friendly interface.
+- [**EDM Project**](https://github.com/Anusha0070/EDM_Project): A backend-focused project using PHP, JavaScript, and SQL to retrieve data from Oracle DB and display it dynamically on the frontend.
+
+---
+
+## 📫 Connect with Me
+- **Email:** [anusha.raju0070@gmail.com](mailto:anusha.raju0070@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anusharaju/](https://www.linkedin.com/in/anusharaju/)
+
+---
+
+✨ _"Dream big, code often."_ ✨
